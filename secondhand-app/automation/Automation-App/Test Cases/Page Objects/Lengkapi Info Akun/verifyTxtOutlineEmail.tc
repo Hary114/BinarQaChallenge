@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtOutlineEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6ee1fc9-36c1-4daf-b82b-ce66a6b6b207</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f0be8a0-ae1e-43ab-9cab-e020f42b5206</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f0be8a0-ae1e-43ab-9cab-e020f42b5206</id>
+      <masked>false</masked>
+      <name>expectedOutlineEmail</name>
+   </variable>
+</TestCaseEntity>

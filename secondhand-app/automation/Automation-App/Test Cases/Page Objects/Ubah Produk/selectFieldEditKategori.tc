@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectFieldEditKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1f73fb1-8d43-40ae-9e72-10f7bd89c209</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6dc6e55a-b19f-47e1-9e9b-577942e857cc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6dc6e55a-b19f-47e1-9e9b-577942e857cc</id>
+      <masked>false</masked>
+      <name>selectedEditKategori</name>
+   </variable>
+</TestCaseEntity>

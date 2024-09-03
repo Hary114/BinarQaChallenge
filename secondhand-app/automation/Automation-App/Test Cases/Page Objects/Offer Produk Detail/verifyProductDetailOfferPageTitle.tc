@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyProductDetailOfferPageTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>900e964e-a7c2-4fbb-9d33-272c08789a9f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2e3b137-404c-4d91-913b-c936e12934e2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2e3b137-404c-4d91-913b-c936e12934e2</id>
+      <masked>false</masked>
+      <name>expectedPageTitle</name>
+   </variable>
+</TestCaseEntity>

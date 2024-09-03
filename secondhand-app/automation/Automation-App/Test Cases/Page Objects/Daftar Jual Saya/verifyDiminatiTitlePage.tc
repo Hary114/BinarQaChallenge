@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyDiminatiTitlePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c7a2394-856d-4105-afff-72c81d5b8d48</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8263b2d-d4ad-486e-8ec0-0fc0e8145327</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c8263b2d-d4ad-486e-8ec0-0fc0e8145327</id>
+      <masked>false</masked>
+      <name>expectedTitlePageDiminati</name>
+   </variable>
+</TestCaseEntity>

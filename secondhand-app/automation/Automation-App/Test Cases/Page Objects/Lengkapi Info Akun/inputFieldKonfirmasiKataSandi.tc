@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldKonfirmasiKataSandi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fe7ae49-88e8-4f20-848e-9bd7b6139463</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05bd8693-24ae-413e-be18-b50c8d3f373b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05bd8693-24ae-413e-be18-b50c8d3f373b</id>
+      <masked>false</masked>
+      <name>konfirmasiKataSandi</name>
+   </variable>
+</TestCaseEntity>

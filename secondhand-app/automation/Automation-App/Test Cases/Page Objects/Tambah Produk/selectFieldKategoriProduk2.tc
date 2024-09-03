@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectFieldKategoriProduk2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdcedbe2-8aa1-40dd-bd8d-80b46afc4e89</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd06ffa4-f0ac-426f-8199-28f2467a7266</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd06ffa4-f0ac-426f-8199-28f2467a7266</id>
+      <masked>false</masked>
+      <name>productStatusPenawaranProduk</name>
+   </variable>
+</TestCaseEntity>

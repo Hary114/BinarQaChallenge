@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldLokasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9732c74-5f44-463f-861a-d3a6a3fdd886</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2027ace7-1358-422a-8d16-25570ddf89d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2027ace7-1358-422a-8d16-25570ddf89d3</id>
+      <masked>false</masked>
+      <name>inputLokasi</name>
+   </variable>
+</TestCaseEntity>

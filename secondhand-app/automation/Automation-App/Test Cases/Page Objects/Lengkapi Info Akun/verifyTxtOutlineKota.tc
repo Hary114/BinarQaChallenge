@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtOutlineKota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7b6bcf0-7479-4a32-862f-3a5a0c8ced89</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1e86f09-a0fa-435a-a0aa-639d34520166</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1e86f09-a0fa-435a-a0aa-639d34520166</id>
+      <masked>false</masked>
+      <name>expectedOutlineKota</name>
+   </variable>
+</TestCaseEntity>

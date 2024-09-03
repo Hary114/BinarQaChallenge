@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtFieldTitleUbahNomorHp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b0e9718-ef6a-4c14-9289-56a51c82b522</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ef2a816-ac09-4287-9c72-9ed12a16259b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ef2a816-ac09-4287-9c72-9ed12a16259b</id>
+      <masked>false</masked>
+      <name>expectedUbahKota</name>
+   </variable>
+</TestCaseEntity>

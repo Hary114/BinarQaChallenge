@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtStatusBerhasilDiterbitkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58a936c1-cb3b-4ad2-bee7-0992954ecd6f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4686d2bd-c033-4f2f-aa94-72f393a13baf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4686d2bd-c033-4f2f-aa94-72f393a13baf</id>
+      <masked>false</masked>
+      <name>expectedStatusBerhasilDiterbitkan</name>
+   </variable>
+</TestCaseEntity>

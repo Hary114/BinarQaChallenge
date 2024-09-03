@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtEmailTakenErrorMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d00e630-f159-4799-8568-ee7549ccb8a8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7914d666-5236-4bc1-ae84-b6c7e60d5317</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7914d666-5236-4bc1-ae84-b6c7e60d5317</id>
+      <masked>false</masked>
+      <name>expectedEmailTakenErrorMessage</name>
+   </variable>
+</TestCaseEntity>

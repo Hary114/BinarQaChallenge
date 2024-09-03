@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tapBtnAllCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d572491a-fb06-45c0-8aeb-0e006cd1a434</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44196cf4-f7d7-4347-96cb-9622ae9ea7bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>44196cf4-f7d7-4347-96cb-9622ae9ea7bf</id>
+      <masked>false</masked>
+      <name>expectedNameCategory</name>
+   </variable>
+</TestCaseEntity>

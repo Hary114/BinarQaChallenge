@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>App_Logout_Account - User want to log out of their account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e142ebfc-794b-4fd0-810c-9c9b2373d24f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtProductStatusDibatalkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42535709-49c0-4ebf-9655-d1f85487da4b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b9ba557-9500-4522-ae66-29a76d2a7255</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0b9ba557-9500-4522-ae66-29a76d2a7255</id>
+      <masked>false</masked>
+      <name>expectedProductStatusDibatalkan</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyModalPerbaruiStatusTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6f9147b-4c89-407d-a838-12920a2cf035</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73eb16ef-e7f1-4260-8ad3-0bbc84eeda6a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73eb16ef-e7f1-4260-8ad3-0bbc84eeda6a</id>
+      <masked>false</masked>
+      <name>expectedModalTitle</name>
+   </variable>
+</TestCaseEntity>

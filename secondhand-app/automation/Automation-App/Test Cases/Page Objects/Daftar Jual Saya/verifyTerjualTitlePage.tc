@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTerjualTitlePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e665da04-3a5d-4aa5-96b0-87b1c1140ad1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7720aca-d7e3-4ffb-8eea-aeb5e87365c6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7720aca-d7e3-4ffb-8eea-aeb5e87365c6</id>
+      <masked>false</masked>
+      <name>expectedTitlePageTerjual</name>
+   </variable>
+</TestCaseEntity>

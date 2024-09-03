@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtPerbaruiStatusModalTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5927f53-e5ad-48dc-a698-ba3734f2ae37</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>629883bb-3fc4-4a8a-88a6-c6bdbabac646</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>629883bb-3fc4-4a8a-88a6-c6bdbabac646</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

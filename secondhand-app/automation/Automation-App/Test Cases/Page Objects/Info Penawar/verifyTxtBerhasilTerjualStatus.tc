@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtBerhasilTerjualStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6904fd1-10f8-439a-ac4d-45f0f93342c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9b3930c-f566-469a-b790-35e589c64225</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c9b3930c-f566-469a-b790-35e589c64225</id>
+      <masked>false</masked>
+      <name>expectedBerhasilTerjual</name>
+   </variable>
+</TestCaseEntity>

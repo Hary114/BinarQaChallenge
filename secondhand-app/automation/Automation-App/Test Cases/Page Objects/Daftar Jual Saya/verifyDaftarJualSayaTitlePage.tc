@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyDaftarJualSayaTitlePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d95e30f7-8b4d-45de-8ecc-67d861091920</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de0efc82-4abc-428d-b7db-382de4258dd1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>de0efc82-4abc-428d-b7db-382de4258dd1</id>
+      <masked>false</masked>
+      <name>expectedDaftarJualSayaTitle</name>
+   </variable>
+</TestCaseEntity>

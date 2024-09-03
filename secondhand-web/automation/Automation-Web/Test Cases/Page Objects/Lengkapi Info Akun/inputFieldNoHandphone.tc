@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldNoHandphone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d461eca-d58b-49e2-bbe3-fbbb6cce3ba7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8830b13c-5430-41cb-bb98-3c8a5bd6d1bd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8830b13c-5430-41cb-bb98-3c8a5bd6d1bd</id>
+      <masked>false</masked>
+      <name>Handphone</name>
+   </variable>
+</TestCaseEntity>

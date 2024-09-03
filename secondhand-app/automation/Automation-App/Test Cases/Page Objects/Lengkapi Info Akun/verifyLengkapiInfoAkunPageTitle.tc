@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyLengkapiInfoAkunPageTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ce29a79-b91c-4434-a858-b8841ea00881</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9aee58fa-ebcf-43c1-bb30-eb83c067ba16</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9aee58fa-ebcf-43c1-bb30-eb83c067ba16</id>
+      <masked>false</masked>
+      <name>expectedPageTitleLengkapiInfoAkun</name>
+   </variable>
+</TestCaseEntity>

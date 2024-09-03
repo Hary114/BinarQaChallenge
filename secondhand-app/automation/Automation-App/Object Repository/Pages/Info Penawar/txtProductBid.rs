@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>txtProductBid</name>
+   <tag></tag>
+   <elementGuidId>1d5ba305-e00c-4f27-b287-c6eb724f2659</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <locator>id.binar.fp.secondhand:id/tv_product_bid</locator>
+   <locatorStrategy>ID</locatorStrategy>
+</MobileElementEntity>

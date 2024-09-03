@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyMasukPageTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b19e86ba-a5c1-4439-9830-18ed87b3e5bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6659895-985f-4813-8266-5d9d46dc9a51</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6659895-985f-4813-8266-5d9d46dc9a51</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

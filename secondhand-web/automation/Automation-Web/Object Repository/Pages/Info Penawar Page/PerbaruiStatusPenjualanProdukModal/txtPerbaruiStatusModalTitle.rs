@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtPerbaruiStatusModalTitle</name>
+   <tag></tag>
+   <elementGuidId>a467b978-a0f3-43c1-90e5-aba61a57ff62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='statusModal101751']/div/form/div[2]/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.fs-5.fw-bold.mb-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-5 fw-bold mb-3</value>
+      <webElementGuid>dddd6232-a831-4724-8ed1-eea7a6417cce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perbarui status penjualan produkmu</value>
+      <webElementGuid>1a9e2a2d-7645-4cb2-a025-728608ff8316</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='statusModal101751']/div/form/div[2]/h5</value>
+      <webElementGuid>070337b9-57dc-416b-bf73-6c09fafa87db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi di'])[1]/following::h5[1]</value>
+      <webElementGuid>ac315b53-d962-4afe-9bb3-c8fcc1cf1346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::h5[1]</value>
+      <webElementGuid>a9e426e7-432c-43e5-8125-9d748f512b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil terjual'])[1]/preceding::h5[1]</value>
+      <webElementGuid>e80285c7-345d-4a5e-b044-79ca7b77c180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan transaksi'])[1]/preceding::h5[1]</value>
+      <webElementGuid>a24ef174-a0c5-49de-9771-4af0235ab96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Perbarui status penjualan produkmu']/parent::*</value>
+      <webElementGuid>a053cb73-1991-49da-a25a-0d44e73996a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/h5</value>
+      <webElementGuid>ed079b49-6654-4c7a-ac1c-143f459a14ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Perbarui status penjualan produkmu' or . = 'Perbarui status penjualan produkmu')]</value>
+      <webElementGuid>4eb09a56-5a99-4d88-a5ce-6c42d9d70862</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

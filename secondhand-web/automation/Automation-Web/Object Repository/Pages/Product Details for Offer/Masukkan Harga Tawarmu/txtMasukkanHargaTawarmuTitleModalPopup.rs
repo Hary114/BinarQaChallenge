@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtMasukkanHargaTawarmuTitleModalPopup</name>
+   <tag></tag>
+   <elementGuidId>47a26581-31d9-4062-bfdb-e39313a5a63b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5.fs-5.fw-bold.mb-3</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Masukkan Harga Tawarmu' or . = 'Masukkan Harga Tawarmu')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offerModal']/div/form/div[2]/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-5 fw-bold mb-3</value>
+      <webElementGuid>a2730a2f-d212-4f3f-b02f-ecf1b5322f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan Harga Tawarmu</value>
+      <webElementGuid>790064f3-6627-451f-9560-ff89de884b2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>offerModal</value>
+      <webElementGuid>2ea1c2f8-a25e-45fa-88b2-84736b292627</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offerModal']/div/form/div[2]/h5</value>
+      <webElementGuid>bda2a52c-712a-4a83-91a1-ab98c68e7510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solo'])[1]/following::h5[1]</value>
+      <webElementGuid>5ff21ac9-4729-4d1f-836f-0b831c6a1c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testhary'])[1]/following::h5[1]</value>
+      <webElementGuid>55b11371-c072-453f-832a-f4d77605aebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kucing jalanan 2'])[2]/preceding::h5[1]</value>
+      <webElementGuid>56b7d708-8ef7-4c09-805b-57c7ef6d15e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 123'])[2]/preceding::h5[1]</value>
+      <webElementGuid>1c923430-1360-4edc-9e0a-535d0fe35908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masukkan Harga Tawarmu']/parent::*</value>
+      <webElementGuid>b0479201-e740-49e9-90bd-4d6c70f463f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h5</value>
+      <webElementGuid>64a8dc07-3406-4bf5-ab5b-b2268a55a66c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Masukkan Harga Tawarmu' or . = 'Masukkan Harga Tawarmu')]</value>
+      <webElementGuid>98d5fa09-5e5b-4c8a-bc38-aa4f889a491d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

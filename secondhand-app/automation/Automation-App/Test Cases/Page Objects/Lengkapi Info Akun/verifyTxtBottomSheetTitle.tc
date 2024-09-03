@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtBottomSheetTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a7aabec-af54-4934-88eb-c269c3e1a17c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e2dd310-0c19-4ebe-9e82-6e19fde84388</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e2dd310-0c19-4ebe-9e82-6e19fde84388</id>
+      <masked>false</masked>
+      <name>expectedBottomSheetTitle</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTitleModalPopup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a339fa4-5b17-4c10-bf6d-94e0f662112e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7721ff23-abad-48c1-be18-4bd04c069421</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7721ff23-abad-48c1-be18-4bd04c069421</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtProductStatusSelesai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afe61e2c-dfab-4722-987b-b8c3317884ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e756e1c2-e256-44cd-81fa-a3bfcc9cc5ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e756e1c2-e256-44cd-81fa-a3bfcc9cc5ec</id>
+      <masked>false</masked>
+      <name>expectedProductStatusSelesai</name>
+   </variable>
+</TestCaseEntity>

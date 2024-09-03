@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtStatusPenawaranProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01b05b3f-b9ce-4d15-9c3f-37627b39fa22</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70fed04c-b718-4c0a-b0b9-dfc8e80ddbba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70fed04c-b718-4c0a-b0b9-dfc8e80ddbba</id>
+      <masked>false</masked>
+      <name>expectedStatusPenawaranProduk</name>
+   </variable>
+</TestCaseEntity>

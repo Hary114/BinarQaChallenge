@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtYeayKamuBerhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfba23a3-dac3-47b1-9e41-90dfce61447b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1542a20-774e-43bd-b8ba-653d2c76fe80</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1542a20-774e-43bd-b8ba-653d2c76fe80</id>
+      <masked>false</masked>
+      <name>expectedYeayKamuBerhasil</name>
+   </variable>
+</TestCaseEntity>

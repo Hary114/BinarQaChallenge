@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtPopupStatusOrderBerhasilDiperbarui</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69744d04-544b-4f92-8487-1f4de72e6f59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea9dd80e-5ff9-4dc4-8143-bc04e7b659fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea9dd80e-5ff9-4dc4-8143-bc04e7b659fd</id>
+      <masked>false</masked>
+      <name>expectedPopupMessage</name>
+   </variable>
+</TestCaseEntity>

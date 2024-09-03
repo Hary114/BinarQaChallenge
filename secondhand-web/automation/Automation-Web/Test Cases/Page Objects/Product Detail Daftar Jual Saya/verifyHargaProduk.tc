@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyHargaProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49024510-36d7-49d4-b79f-3288a2561e91</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5faa4b77-4561-4380-b7d5-711e252f4fcb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5faa4b77-4561-4380-b7d5-711e252f4fcb</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

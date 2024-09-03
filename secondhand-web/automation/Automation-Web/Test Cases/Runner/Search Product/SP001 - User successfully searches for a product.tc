@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SP001 - User successfully searches for a product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9a727fd-eca7-4647-9df3-889648afad7d</testCaseGuid>
+</TestCaseEntity>

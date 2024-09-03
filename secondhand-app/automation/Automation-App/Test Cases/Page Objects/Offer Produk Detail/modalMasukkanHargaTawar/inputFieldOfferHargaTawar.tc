@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldOfferHargaTawar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97037bda-1439-471a-9995-2feb8396a9c7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daa1720b-321c-4b09-a525-f009bfb9640f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>daa1720b-321c-4b09-a525-f009bfb9640f</id>
+      <masked>false</masked>
+      <name>inputtedPriceForOffer</name>
+   </variable>
+</TestCaseEntity>

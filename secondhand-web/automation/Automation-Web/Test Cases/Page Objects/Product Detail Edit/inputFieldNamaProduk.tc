@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldNamaProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9bb0d7b-addb-4688-85fd-f75938295597</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>128277b4-69fb-4053-a88d-ef467437e52e</id>
+      <masked>false</masked>
+      <name>namaProduk</name>
+   </variable>
+</TestCaseEntity>

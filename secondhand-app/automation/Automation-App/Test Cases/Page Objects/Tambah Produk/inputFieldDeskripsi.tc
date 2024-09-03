@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldDeskripsi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7398575-c8e5-45da-9445-58f193dc909d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c932cd0-7c9c-4584-a4a6-351b3731656f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c932cd0-7c9c-4584-a4a6-351b3731656f</id>
+      <masked>false</masked>
+      <name>inputDeskripsi</name>
+   </variable>
+</TestCaseEntity>

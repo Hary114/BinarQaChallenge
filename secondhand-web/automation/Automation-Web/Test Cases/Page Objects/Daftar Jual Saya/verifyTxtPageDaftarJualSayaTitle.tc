@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtPageDaftarJualSayaTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2cfd93e-ae1b-4532-85e3-55e9d0c243d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eeed31f7-ba46-41f3-b7d4-f6c277cc4d68</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eeed31f7-ba46-41f3-b7d4-f6c277cc4d68</id>
+      <masked>false</masked>
+      <name>expectedTitlePageDJS</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyCategoryForProductList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd923f83-b9e1-4097-9375-58c3f917bd56</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa148ddb-6b09-4c08-ba76-fa43b5d5b108</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa148ddb-6b09-4c08-ba76-fa43b5d5b108</id>
+      <masked>false</masked>
+      <name>expectedProductCategory</name>
+   </variable>
+</TestCaseEntity>

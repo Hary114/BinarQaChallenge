@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyProductStatusPenawaranDitolak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3172aa6e-3d34-43fe-ba89-84d84cd99178</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4cd25130-df80-49fb-ba4e-5041f6905a16</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4cd25130-df80-49fb-ba4e-5041f6905a16</id>
+      <masked>false</masked>
+      <name>expectedStatusBerhasilTerjual</name>
+   </variable>
+</TestCaseEntity>

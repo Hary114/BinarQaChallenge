@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtUpdateProdukPageTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f612c3b8-b2ed-45fe-89a0-18fbc46a7e68</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90523cc9-08f7-4585-8a66-6f58a8a46a29</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>90523cc9-08f7-4585-8a66-6f58a8a46a29</id>
+      <masked>false</masked>
+      <name>inputPageTitle</name>
+   </variable>
+</TestCaseEntity>

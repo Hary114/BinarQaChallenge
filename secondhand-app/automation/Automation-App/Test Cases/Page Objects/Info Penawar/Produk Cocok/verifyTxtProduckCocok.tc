@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtProduckCocok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6fb6962-3960-47a8-a48e-efcfaf260968</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93375c60-61c3-40f4-9cc1-7b869b251c93</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>93375c60-61c3-40f4-9cc1-7b869b251c93</id>
+      <masked>false</masked>
+      <name>expectedProdukCocok</name>
+   </variable>
+</TestCaseEntity>

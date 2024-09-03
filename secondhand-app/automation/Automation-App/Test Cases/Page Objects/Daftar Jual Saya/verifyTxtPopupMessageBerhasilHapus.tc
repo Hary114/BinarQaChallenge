@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtPopupMessageBerhasilHapus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c345621-c217-4467-b518-fae8216e6b95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07558ae0-c3ce-40f4-8075-e986639d047a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07558ae0-c3ce-40f4-8075-e986639d047a</id>
+      <masked>false</masked>
+      <name>expectedPopupMessageHapus</name>
+   </variable>
+</TestCaseEntity>

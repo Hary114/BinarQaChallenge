@@ -1,0 +1,17 @@
+**/*.log
+**/*.gradle
+**/*.properties
+**/*.classpath
+**/*.project
+**/*.idea
+**/*.settings
+**/*.cache
+**/*.meta
+**/bin
+**/Reports
+**/Libs
+**/output
+**/build
+**/apk
+**/settings
+**/*.prj

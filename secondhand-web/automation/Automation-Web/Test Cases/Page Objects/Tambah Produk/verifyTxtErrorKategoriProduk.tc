@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtErrorKategoriProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d222f0b5-a6f0-4e65-97c0-a6b5fa06ffd1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eae6c2bd-c557-4db2-8413-55c81dc52919</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtFieldTitleUbahKataSandi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>147c1464-6647-405c-8cfb-27f4634f98de</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e2104c4-3fa7-475f-99ad-0656d2d863e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e2104c4-3fa7-475f-99ad-0656d2d863e8</id>
+      <masked>false</masked>
+      <name>expectedUbahPassword</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldEditDeskripsi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48967857-5439-4af4-84c5-ae0b0ad93f70</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e248920e-9600-4600-bf5e-306b730445a7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e248920e-9600-4600-bf5e-306b730445a7</id>
+      <masked>false</masked>
+      <name>editDeskripsi</name>
+   </variable>
+</TestCaseEntity>

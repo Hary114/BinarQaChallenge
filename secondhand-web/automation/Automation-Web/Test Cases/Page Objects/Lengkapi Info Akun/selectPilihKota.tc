@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectPilihKota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd7ccba0-90ac-453e-856e-def8bd74d803</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46190b91-7faa-44e0-b844-622883ce146a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46190b91-7faa-44e0-b844-622883ce146a</id>
+      <masked>false</masked>
+      <name>kota</name>
+   </variable>
+</TestCaseEntity>

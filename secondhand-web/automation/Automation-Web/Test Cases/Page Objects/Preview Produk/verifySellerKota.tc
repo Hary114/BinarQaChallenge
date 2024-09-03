@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifySellerKota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f718d448-6d23-4a17-9c1b-3dd591fe6257</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>021c753e-16f9-491a-ba13-2c7d5b577d20</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>021c753e-16f9-491a-ba13-2c7d5b577d20</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

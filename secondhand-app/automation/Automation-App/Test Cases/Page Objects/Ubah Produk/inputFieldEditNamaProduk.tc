@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldEditNamaProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3830e70-cfad-4e35-84e0-3bd67ab6f34f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d894007d-b801-4196-9d20-5a3a120b76e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d894007d-b801-4196-9d20-5a3a120b76e6</id>
+      <masked>false</masked>
+      <name>editNamaProduk</name>
+   </variable>
+</TestCaseEntity>

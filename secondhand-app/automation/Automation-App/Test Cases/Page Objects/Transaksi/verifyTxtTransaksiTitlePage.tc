@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtTransaksiTitlePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca8c56d2-326e-4514-84de-66e50892dabd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc16be5e-1f12-43dd-a136-c43926df81e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc16be5e-1f12-43dd-a136-c43926df81e3</id>
+      <masked>false</masked>
+      <name>expectedTransaksiTitlePage</name>
+   </variable>
+</TestCaseEntity>

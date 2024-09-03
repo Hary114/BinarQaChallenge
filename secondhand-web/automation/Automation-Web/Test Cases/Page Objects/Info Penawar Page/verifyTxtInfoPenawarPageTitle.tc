@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtInfoPenawarPageTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01e176fa-14d0-485e-afde-4072341ff88a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1283ca5-38a3-4333-8f98-b3e88745743d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1283ca5-38a3-4333-8f98-b3e88745743d</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

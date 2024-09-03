@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyPageTitleInfoPenawar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d6a9106-e458-40ac-862e-c856b6aeecd8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>365e07df-7199-4ee1-8258-fde3e826ec2c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>365e07df-7199-4ee1-8258-fde3e826ec2c</id>
+      <masked>false</masked>
+      <name>expectedPageTitleInfoPenawar</name>
+   </variable>
+</TestCaseEntity>

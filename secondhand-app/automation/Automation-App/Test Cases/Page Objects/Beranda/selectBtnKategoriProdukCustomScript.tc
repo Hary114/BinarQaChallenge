@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectBtnKategoriProdukCustomScript</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d003a76a-f99d-4924-87e2-7f7bc525a261</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7db69ef9-de0d-4d9e-833a-d6eea59b5e12</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7db69ef9-de0d-4d9e-833a-d6eea59b5e12</id>
+      <masked>false</masked>
+      <name>expectedCategory</name>
+   </variable>
+</TestCaseEntity>

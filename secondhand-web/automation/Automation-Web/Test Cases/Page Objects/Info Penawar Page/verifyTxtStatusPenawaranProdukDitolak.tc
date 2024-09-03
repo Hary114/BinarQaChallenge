@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtStatusPenawaranProdukDitolak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6757ff40-4a8c-4127-bbd7-134c2c0aacf2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7e6318e-72c5-4174-a9ad-066b83911e9e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7e6318e-72c5-4174-a9ad-066b83911e9e</id>
+      <masked>false</masked>
+      <name>statusProdukDitolak</name>
+   </variable>
+</TestCaseEntity>

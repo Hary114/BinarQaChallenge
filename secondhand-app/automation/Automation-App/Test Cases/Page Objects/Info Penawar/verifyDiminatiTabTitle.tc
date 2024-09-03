@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyDiminatiTabTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8a7bce6-380c-4bb7-9eb9-22e6df422bd3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>761a49d3-f746-410b-b1de-8d264fcafe3b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>761a49d3-f746-410b-b1de-8d264fcafe3b</id>
+      <masked>false</masked>
+      <name>expectedDiminatiTabTitle</name>
+   </variable>
+</TestCaseEntity>

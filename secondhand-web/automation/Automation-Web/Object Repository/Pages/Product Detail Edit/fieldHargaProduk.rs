@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldHargaProduk</name>
+   <tag></tag>
+   <elementGuidId>be275b41-8ee8-4479-94cb-0b2dc0e9c384</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'product_price']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#product_price</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='product_price']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>product_price</value>
+      <webElementGuid>80804ff6-b579-4255-b923-06c1714ae8e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='product_price']</value>
+      <webElementGuid>be8b8136-f618-4f1e-86d4-6988332eb0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>99468efc-61a4-4d18-a253-02dd1e6ffac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Rp 0,00' and @type = 'number' and @name = 'product[price]' and @id = 'product_price']</value>
+      <webElementGuid>561a3ce7-fbea-4384-b2f9-a8b3b2f9713a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtPageDaftarTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a60da219-8ed5-42c8-9bdd-36c2f3d81ef0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b08ec5aa-4f11-4da7-aa70-9f13a3a62056</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b08ec5aa-4f11-4da7-aa70-9f13a3a62056</id>
+      <masked>false</masked>
+      <name>expectedTitlePageDaftar</name>
+   </variable>
+</TestCaseEntity>

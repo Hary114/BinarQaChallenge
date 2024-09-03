@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputHargaProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86600a61-036a-40b7-af4f-6352dec45494</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2e0e8a9-5d4e-4cb6-a23f-be88c53dbc44</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2e0e8a9-5d4e-4cb6-a23f-be88c53dbc44</id>
+      <masked>false</masked>
+      <name>hargaProduk</name>
+   </variable>
+</TestCaseEntity>

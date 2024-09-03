@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectFieldKategoriProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eff4bb3d-7169-47e0-9ddc-fbe375eaadfb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0383a66b-21b7-4500-93e5-02e66ff7e8ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0383a66b-21b7-4500-93e5-02e66ff7e8ec</id>
+      <masked>false</masked>
+      <name>selectedKategori</name>
+   </variable>
+</TestCaseEntity>

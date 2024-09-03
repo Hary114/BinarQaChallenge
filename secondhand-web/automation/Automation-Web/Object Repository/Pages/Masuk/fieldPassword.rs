@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldPassword</name>
+   <tag></tag>
+   <elementGuidId>f1757455-6513-4eb7-bb1b-8cab99879207</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#user_password</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>user_password</value>
+      <webElementGuid>caf86bf9-8b1d-42b0-a2ff-360147db2483</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

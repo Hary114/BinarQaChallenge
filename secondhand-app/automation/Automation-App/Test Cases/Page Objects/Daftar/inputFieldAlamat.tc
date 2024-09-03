@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldAlamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c16a134f-60d3-4ef5-9ee4-cccd2c6cdd33</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3913cb7-3c15-4105-b359-bfbecb52acfa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3913cb7-3c15-4105-b359-bfbecb52acfa</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>

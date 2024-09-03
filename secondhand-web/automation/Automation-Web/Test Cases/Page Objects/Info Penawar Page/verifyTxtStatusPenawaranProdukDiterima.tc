@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtStatusPenawaranProdukDiterima</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f5e944b-b977-48d5-82e6-91669d002d3e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79edf35b-721f-4d08-9543-061a73838616</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79edf35b-721f-4d08-9543-061a73838616</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

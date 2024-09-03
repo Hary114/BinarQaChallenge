@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtPenawaranDitolakStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8047d7a6-eb53-41fc-a1a0-9b23890ab582</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9169c9e-e742-401f-8ec0-7143353277bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9169c9e-e742-401f-8ec0-7143353277bf</id>
+      <masked>false</masked>
+      <name>expectedPenawaranDitolakStatus</name>
+   </variable>
+</TestCaseEntity>

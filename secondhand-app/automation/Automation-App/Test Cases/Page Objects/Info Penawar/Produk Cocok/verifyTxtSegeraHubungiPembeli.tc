@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtSegeraHubungiPembeli</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11d9a22c-bb8c-4b93-90a7-4c562963f5a8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>688988d9-1d5a-401f-9fec-89f3d05f356a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>688988d9-1d5a-401f-9fec-89f3d05f356a</id>
+      <masked>false</masked>
+      <name>expectedSegeraHubungiPembeli</name>
+   </variable>
+</TestCaseEntity>

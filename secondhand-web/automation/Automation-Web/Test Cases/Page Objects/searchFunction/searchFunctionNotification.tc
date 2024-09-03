@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchFunctionNotification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64ff22e8-f338-47bc-b3da-3db1b6589341</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c14ecb4f-3bbd-4746-bd38-730e6abbc551</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c14ecb4f-3bbd-4746-bd38-730e6abbc551</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

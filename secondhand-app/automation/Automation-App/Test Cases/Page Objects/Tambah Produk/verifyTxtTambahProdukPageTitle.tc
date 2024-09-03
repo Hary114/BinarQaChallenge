@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtTambahProdukPageTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d70307f3-e96f-42c1-9fe3-7e4a6b6315ae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f519a659-6267-4d5d-a26f-ad7fa750dec9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f519a659-6267-4d5d-a26f-ad7fa750dec9</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

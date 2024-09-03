@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyBtnMasuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a207a84-7d1c-4f82-9ed0-7fda8d73cefc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>afb2cd5a-083c-4183-8503-419e0264ddca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>afb2cd5a-083c-4183-8503-419e0264ddca</id>
+      <masked>false</masked>
+      <name>expectedBtnMasuk</name>
+   </variable>
+</TestCaseEntity>

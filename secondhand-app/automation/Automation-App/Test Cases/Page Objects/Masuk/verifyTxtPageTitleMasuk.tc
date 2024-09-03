@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtPageTitleMasuk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7653ac77-d6fe-40f0-a448-415a5767e456</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fcc230a9-9fe2-4683-9b61-7751aabdeb16</id>
+      <masked>false</masked>
+      <name>expectedPageTitleMasuk</name>
+   </variable>
+</TestCaseEntity>

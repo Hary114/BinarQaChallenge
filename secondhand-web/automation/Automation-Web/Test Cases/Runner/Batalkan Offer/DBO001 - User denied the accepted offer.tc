@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DBO001 - User denied the accepted offer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db6da768-8b8c-414d-bce6-41830fa4ffca</testCaseGuid>
+</TestCaseEntity>

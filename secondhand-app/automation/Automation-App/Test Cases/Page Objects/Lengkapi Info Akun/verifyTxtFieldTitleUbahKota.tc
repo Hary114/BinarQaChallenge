@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtFieldTitleUbahKota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f343202-4816-40eb-8e77-bf36506c5dff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c589f635-4e56-4330-a71e-d9108315ce71</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c589f635-4e56-4330-a71e-d9108315ce71</id>
+      <masked>false</masked>
+      <name>expectedUbahKota</name>
+   </variable>
+</TestCaseEntity>

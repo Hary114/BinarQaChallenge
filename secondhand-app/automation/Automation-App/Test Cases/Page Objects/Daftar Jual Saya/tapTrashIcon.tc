@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tapTrashIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07e34268-3632-4399-b4f5-717e8eb2f029</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>110275dc-056c-49e7-b6ef-5750edbd9676</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>110275dc-056c-49e7-b6ef-5750edbd9676</id>
+      <masked>false</masked>
+      <name>expectedName</name>
+   </variable>
+</TestCaseEntity>

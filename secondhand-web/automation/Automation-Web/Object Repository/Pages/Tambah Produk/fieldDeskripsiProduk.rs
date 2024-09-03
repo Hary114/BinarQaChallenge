@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldDeskripsiProduk</name>
+   <tag></tag>
+   <elementGuidId>cba4dca1-419b-41cd-be8e-202ab3931e3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Contoh: Jalan Ikan Hiu 33' and @id = 'product_description']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='product_description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#product_description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Jalan Ikan Hiu 33</value>
+      <webElementGuid>6031d792-45ff-479e-8f8e-dccb0bcdde36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>product_description</value>
+      <webElementGuid>feffe723-9cb6-4ade-b2cc-42fc153cfa10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='product_description']</value>
+      <webElementGuid>9eba3070-c945-4c1d-9145-afb6e8ead550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>92a7dda2-e8e9-4da4-8975-e3a41b63f2fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Contoh: Jalan Ikan Hiu 33' and @name = 'product[description]' and @id = 'product_description']</value>
+      <webElementGuid>25a7726b-e9c3-46b0-881a-dac3a5029425</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

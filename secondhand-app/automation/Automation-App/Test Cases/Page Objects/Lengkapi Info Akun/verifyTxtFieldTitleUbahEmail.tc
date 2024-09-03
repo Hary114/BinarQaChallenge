@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtFieldTitleUbahEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2d24c1c-0d9d-4a1e-8e06-361db20caaea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37a49e65-e574-4fd0-9bbc-ab85294d812f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37a49e65-e574-4fd0-9bbc-ab85294d812f</id>
+      <masked>false</masked>
+      <name>expectedUbahEmail</name>
+   </variable>
+</TestCaseEntity>

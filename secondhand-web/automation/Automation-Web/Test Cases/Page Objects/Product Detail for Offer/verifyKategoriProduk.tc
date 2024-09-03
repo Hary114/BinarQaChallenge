@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyKategoriProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>455a6c1a-6d81-4d47-9728-42a11e7cea3e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bacd874-2e84-49b5-9387-ad0734a7a862</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bacd874-2e84-49b5-9387-ad0734a7a862</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectKategoriProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>160b817e-a854-41d7-a2ae-152e9096ae01</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ba2d74f-eaea-4ad0-9ce3-6cb15ead876d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ba2d74f-eaea-4ad0-9ce3-6cb15ead876d</id>
+      <masked>false</masked>
+      <name>selectedCategory</name>
+   </variable>
+</TestCaseEntity>

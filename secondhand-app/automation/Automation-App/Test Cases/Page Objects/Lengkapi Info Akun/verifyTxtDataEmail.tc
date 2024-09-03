@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtDataEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23c13542-ae16-4862-8b70-022bfb29a2a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10a6a0d9-83e8-46c3-aedd-8f55c29662de</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10a6a0d9-83e8-46c3-aedd-8f55c29662de</id>
+      <masked>false</masked>
+      <name>expectedTxtDataEmail</name>
+   </variable>
+</TestCaseEntity>

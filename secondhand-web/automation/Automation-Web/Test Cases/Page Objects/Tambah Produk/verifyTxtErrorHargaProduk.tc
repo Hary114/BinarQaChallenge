@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtErrorHargaProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0417d96e-3e17-4eb6-ac7f-e8b83c547176</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5338871a-00de-4ba1-8ed1-a589efa72d0c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5338871a-00de-4ba1-8ed1-a589efa72d0c</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

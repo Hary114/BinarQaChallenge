@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtOutlineAlamat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdff3012-ac94-4933-a5b5-61b5d40f4960</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7debfcb5-7f41-45c5-a6f5-1118e268c56a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7debfcb5-7f41-45c5-a6f5-1118e268c56a</id>
+      <masked>false</masked>
+      <name>expectedOutlineAlamat</name>
+   </variable>
+</TestCaseEntity>

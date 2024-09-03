@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtMasukkanHargaTawarModalTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fbefe45-230e-43b6-aa66-93aac676386d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ac7820a-75de-4c4d-a3c7-836c151299d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ac7820a-75de-4c4d-a3c7-836c151299d3</id>
+      <masked>false</masked>
+      <name>expectedModalTitle</name>
+   </variable>
+</TestCaseEntity>

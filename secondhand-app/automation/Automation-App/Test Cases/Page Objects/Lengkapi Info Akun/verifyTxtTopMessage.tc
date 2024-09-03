@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtTopMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf64456f-5669-4199-bbe8-16737cb96b3b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce141fb8-4846-43aa-b0bc-ff4081652b11</id>
+      <masked>false</masked>
+      <name>expectedTxtTopMessage</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APLTH001 - Delete published product from Terjual page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f75799b9-460f-4bbe-b313-c1b08dda069b</testCaseGuid>
+</TestCaseEntity>

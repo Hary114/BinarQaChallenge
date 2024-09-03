@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtOutlineKataSandi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fff23749-4355-4365-a798-f96535fde50c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29c661b9-70ec-4a34-a12c-a0d745e27982</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29c661b9-70ec-4a34-a12c-a0d745e27982</id>
+      <masked>false</masked>
+      <name>expectedOutlineKataSandi</name>
+   </variable>
+</TestCaseEntity>

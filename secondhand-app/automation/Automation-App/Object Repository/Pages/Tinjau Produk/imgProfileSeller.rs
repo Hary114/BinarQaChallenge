@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>imgProfileSeller</name>
+   <tag></tag>
+   <elementGuidId>dd3a3064-a52d-4f34-856a-2a3c7fbd2fee</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value>id.binar.fp.secondhand:id/iv_profile</value>
+      <webElementGuid>0dd75bf6-155d-4d0b-b1a8-24e20d9e07f0</webElementGuid>
+   </webElementProperties>
+   <locator>id.binar.fp.secondhand:id/iv_profile</locator>
+   <locatorStrategy>ID</locatorStrategy>
+</MobileElementEntity>

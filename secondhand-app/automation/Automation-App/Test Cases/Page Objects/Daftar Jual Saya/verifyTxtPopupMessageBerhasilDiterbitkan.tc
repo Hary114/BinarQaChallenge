@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtPopupMessageBerhasilDiterbitkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f80a5c5-faab-478b-abdb-fc3a1204b0d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21f2aea2-7117-4d70-8ee9-41d0be0079f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21f2aea2-7117-4d70-8ee9-41d0be0079f3</id>
+      <masked>false</masked>
+      <name>expectedPopupMessageBerhasilDiterbitkan</name>
+   </variable>
+</TestCaseEntity>

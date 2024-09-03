@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectDropDownKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1ddc936-5c55-47b4-9a0c-798f2b6d818a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9af5c4a8-31a1-433c-ada9-417471df8c21</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9af5c4a8-31a1-433c-ada9-417471df8c21</id>
+      <masked>false</masked>
+      <name>selectedKategori</name>
+   </variable>
+</TestCaseEntity>

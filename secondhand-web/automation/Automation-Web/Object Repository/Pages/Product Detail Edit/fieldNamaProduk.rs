@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldNamaProduk</name>
+   <tag></tag>
+   <elementGuidId>ea45d9f0-48a4-4411-b2d7-c33a8c845c60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'product_name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#product_name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='product_name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>product_name</value>
+      <webElementGuid>48d77e6a-ceb0-44f3-8747-812da78fb9ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='product_name']</value>
+      <webElementGuid>9d3c4698-75e0-402b-a11e-d166c4c73ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/form/div/input</value>
+      <webElementGuid>985f8075-0567-4ed3-bc17-659ea6a4052b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Nama Produk' and @type = 'text' and @name = 'product[name]' and @id = 'product_name']</value>
+      <webElementGuid>4b1825e7-1bb2-4adb-9102-d6fdaa57b985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

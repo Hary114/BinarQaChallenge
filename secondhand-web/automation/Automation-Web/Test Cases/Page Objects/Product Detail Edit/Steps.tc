@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+<<<<<<<< HEAD:secondhand-web/automation/Automation-Web/Test Cases/Page Objects/Product Detail Edit/Steps.tc
+   <name>Steps</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb6f6d1d-32ff-4f4b-b3cb-75688701534d</testCaseGuid>
+========
+   <name>clickBtnTerbitkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ddb29d2-4d88-4184-ae72-80b232b90de7</testCaseGuid>
+>>>>>>>> develop:secondhand-web/automation/Automation-Web/Test Cases/Page Objects/Product Detail Edit/clickBtnTerbitkan.tc
+</TestCaseEntity>

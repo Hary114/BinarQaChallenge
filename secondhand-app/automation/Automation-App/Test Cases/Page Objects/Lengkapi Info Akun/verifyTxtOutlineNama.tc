@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtOutlineNama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>978914cf-fe0e-4c9c-b9d3-bf2445e7e857</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>665fea7f-b508-4412-b05d-7a492205672b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>665fea7f-b508-4412-b05d-7a492205672b</id>
+      <masked>false</masked>
+      <name>expectedOutlineNama</name>
+   </variable>
+</TestCaseEntity>

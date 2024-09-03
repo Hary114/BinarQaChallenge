@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtStatusOfferDibatalkan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ab56a7f-baa9-4253-be90-5b87dadd5f2a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15b7fc27-60bb-41ff-a53e-cd9177d81799</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15b7fc27-60bb-41ff-a53e-cd9177d81799</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldNomorHp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf838e95-28b0-45eb-81a7-6d4a35894075</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cba5eb6d-7d99-44e4-b0b7-49f2a07630e0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cba5eb6d-7d99-44e4-b0b7-49f2a07630e0</id>
+      <masked>false</masked>
+      <name>noHp</name>
+   </variable>
+</TestCaseEntity>

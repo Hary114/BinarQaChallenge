@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldKataSandiLama</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb1384ad-7826-40e4-a041-5df2510fc1b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32550a74-9497-4c6f-b754-eb35461eb1c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32550a74-9497-4c6f-b754-eb35461eb1c5</id>
+      <masked>false</masked>
+      <name>kataSandiLama</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtTelusuriKategoriTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76fd8f0f-274d-4ac2-a82b-a3505aa4a23c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2827a80f-ac3c-4161-9ef4-36b81c5fa059</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2827a80f-ac3c-4161-9ef4-36b81c5fa059</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtDataCity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfb13f8a-48c2-4e02-9740-e98fee4e6f9a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>942b0d4e-1f26-4d6c-aebe-87fc0da6337e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>942b0d4e-1f26-4d6c-aebe-87fc0da6337e</id>
+      <masked>false</masked>
+      <name>expectedTxtDataCity</name>
+   </variable>
+</TestCaseEntity>

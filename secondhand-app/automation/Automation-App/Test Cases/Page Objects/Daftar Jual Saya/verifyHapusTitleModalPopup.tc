@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyHapusTitleModalPopup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>829f53dd-0d84-415d-9743-093bc81c9747</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16d80e63-e2ab-4ac0-aa1f-6428b425b87b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>16d80e63-e2ab-4ac0-aa1f-6428b425b87b</id>
+      <masked>false</masked>
+      <name>expectedHapusProdukIni</name>
+   </variable>
+</TestCaseEntity>

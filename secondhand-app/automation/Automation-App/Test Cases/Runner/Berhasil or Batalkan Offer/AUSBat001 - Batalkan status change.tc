@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AUSBat001 - Batalkan status change</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8c51ad5-af4e-4871-b614-a1bc0fa275ec</testCaseGuid>
+</TestCaseEntity>

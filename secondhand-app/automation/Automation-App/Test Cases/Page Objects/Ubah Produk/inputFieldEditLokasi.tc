@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inputFieldEditLokasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3023f95-c3d1-4829-adca-c71be21f3ae8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fb9a9b5-21cf-4667-81b7-69eebf792676</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fb9a9b5-21cf-4667-81b7-69eebf792676</id>
+      <masked>false</masked>
+      <name>editLokasi</name>
+   </variable>
+</TestCaseEntity>

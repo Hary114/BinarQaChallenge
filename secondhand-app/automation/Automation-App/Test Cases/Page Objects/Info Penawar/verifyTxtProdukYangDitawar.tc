@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtProdukYangDitawar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cee7f00-1060-443b-a695-070ef06fa075</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7452e1d2-aaac-4fd8-b6c3-775d21e048c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7452e1d2-aaac-4fd8-b6c3-775d21e048c0</id>
+      <masked>false</masked>
+      <name>expectedProdukYangDitawar</name>
+   </variable>
+</TestCaseEntity>

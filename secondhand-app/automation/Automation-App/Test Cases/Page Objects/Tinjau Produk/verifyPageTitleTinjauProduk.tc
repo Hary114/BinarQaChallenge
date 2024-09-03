@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyPageTitleTinjauProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25442d6b-d2d4-49f5-9ec0-19c02c1c3375</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c163dd1-abf6-4e6d-9ab3-6a1f27a412d0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c163dd1-abf6-4e6d-9ab3-6a1f27a412d0</id>
+      <masked>false</masked>
+      <name>expectedPageTitleTinjauProduk</name>
+   </variable>
+</TestCaseEntity>

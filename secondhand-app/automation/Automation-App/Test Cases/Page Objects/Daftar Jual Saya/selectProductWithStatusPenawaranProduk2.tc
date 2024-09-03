@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selectProductWithStatusPenawaranProduk2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccb5c0ca-a64a-4c8e-8049-f8b85b02c681</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05c3a7da-adc9-433b-80a5-f50407c556d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05c3a7da-adc9-433b-80a5-f50407c556d5</id>
+      <masked>false</masked>
+      <name>expectedName</name>
+   </variable>
+</TestCaseEntity>

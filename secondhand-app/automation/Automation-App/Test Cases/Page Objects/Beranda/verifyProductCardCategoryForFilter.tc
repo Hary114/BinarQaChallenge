@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyProductCardCategoryForFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2351f078-a375-435b-9bca-0e76deeb2646</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc2533b4-fddf-44a4-993d-c9a1485cf774</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc2533b4-fddf-44a4-993d-c9a1485cf774</id>
+      <masked>false</masked>
+      <name>expectedProductCategory</name>
+   </variable>
+</TestCaseEntity>

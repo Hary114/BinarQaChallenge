@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtOutlineNomorHp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daebae47-7757-434b-9eaa-9f21399d7018</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0fe5f001-ce79-497e-8cbb-3bda4c1c8cfb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0fe5f001-ce79-497e-8cbb-3bda4c1c8cfb</id>
+      <masked>false</masked>
+      <name>expectedOutlineNomorHp</name>
+   </variable>
+</TestCaseEntity>

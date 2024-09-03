@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>fieldSearch</name>
+   <tag></tag>
+   <elementGuidId>ecfe6b0c-7a89-4ef9-b7ba-e5ffe3be3bd1</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.LinearLayout</value>
+      <webElementGuid>a589231d-110e-4167-94fb-7c7f4f62b722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value>id.binar.fp.secondhand:id/tl_search</value>
+      <webElementGuid>bbc10768-5388-499d-a396-20b8f1fb0d42</webElementGuid>
+   </webElementProperties>
+   <locator>id.binar.fp.secondhand:id/tl_search</locator>
+   <locatorStrategy>ID</locatorStrategy>
+</MobileElementEntity>

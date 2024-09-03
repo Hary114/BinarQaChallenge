@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyPesananSayaPageTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd6de219-abdc-4350-842e-04228e508121</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f652b63a-e62a-4c1d-b6ab-0e82f22960db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f652b63a-e62a-4c1d-b6ab-0e82f22960db</id>
+      <masked>false</masked>
+      <name>inputtedPageTitle</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtDataName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1bdcae5-b453-4280-82e6-61b47c82d859</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a0c02d7c-7e51-4e6b-b1b3-5c0b8b350d13</id>
+      <masked>false</masked>
+      <name>expectedTxtDataName</name>
+   </variable>
+</TestCaseEntity>

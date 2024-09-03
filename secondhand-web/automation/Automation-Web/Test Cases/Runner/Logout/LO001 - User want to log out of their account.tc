@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LO001 - User want to log out of their account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b53925a9-e406-4e87-a44e-faea744a1661</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyTxtDataPhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca5e0dba-54a2-4c82-bacb-e69e230b0a86</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>328c157b-5d2d-44cb-8089-e505d4824ac2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>328c157b-5d2d-44cb-8089-e505d4824ac2</id>
+      <masked>false</masked>
+      <name>expectedTxtDataPhone</name>
+   </variable>
+</TestCaseEntity>
